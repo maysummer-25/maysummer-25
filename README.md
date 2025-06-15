@@ -22,10 +22,6 @@
 
 <h3>📈 GitHub Stats (soon to grow!)</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmesomachukwumezie&show_icons=true&theme=default" alt="mmesoma's GitHub stats"/>
-</p>
-
 ---
 
 <h3>📬 Let’s Connect</h3>
