@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Mmesoma Chukwumezie</h1>
-<h3 align="center">Aspiring Full Stack Developer | Passionate about healthcare and technology</h3>
+<h3 align="center">Aspiring Cloud & DevOps Enthusiast | Learning Git & GitHub | DMI </h3>
 
 ---
 
-🌱 I’m currently learning **front-end development** at ALX  
+🌱 I’m currently learning **DevOps/Cloud Engineering** at Pravin Mishra DevOps Micro-Internship  
 🎓 I have a background in **Biochemistry** from FUTO (graduated top 5%)  
-💡 I transitioned into tech to build solutions that improve **patient care and well-being**  
-📘 I enjoy journaling, learning new things, and reading  
-💻 I’m currently learning: HTML, CSS, JavaScript, and Git  
+📘 I enjoy journaling, learning new things, and reading    
 🤝 I’d love to connect with fellow learners and mentors
 
 ---
@@ -15,7 +13,7 @@
 <h3>🛠 Tools and Tech I'm Learning:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,azure,git" />
 </p>
 
 ---
